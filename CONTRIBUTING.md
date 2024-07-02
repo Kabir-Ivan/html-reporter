@@ -25,7 +25,7 @@ you need to launch browsers inside a Docker container.
     npm run e2e:build-browsers && npm run e2e:launch-browsers
     ```
 3. Run e2e tests:
-    ```bash
+    ```bash 
     npm run e2e
     ```
 
