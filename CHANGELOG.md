@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="11.0.0"></a>
+# [11.0.0](https://github.com/gemini-testing/html-reporter/compare/v10.5.1...v11.0.0) (2024-07-02)
+
+
+### Bug Fixes
+
+* add useless space ([fad89a5](https://github.com/gemini-testing/html-reporter/commit/fad89a5))
+
+
+
 <a name="10.5.1"></a>
 ## [10.5.1](https://github.com/gemini-testing/html-reporter/compare/v10.5.0...v10.5.1) (2024-07-02)
 
