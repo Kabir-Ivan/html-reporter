@@ -8,7 +8,7 @@
 End-to-end testing of html-reporter consists of two stages: generating fixture reports using different tools and tests,
 then running hermione tests on these reports.
 
-In order to make e2e/screenshot tests stable and reproducible across different environments,
+In order to make e2e/screenshot tests stable and reproducible across different environments,  
 you need to launch browsers inside a Docker container.
 
 1. Make sure you have Docker installed.
