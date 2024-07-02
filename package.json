@@ -7,7 +7,7 @@
   ],
   "exports": {
     "./testplane": "./build/testplane.js",
-    "./hermione": "./build/hermione.js",
+    "./hermione": "./build/hermione.js", 
     "./playwright": "./build/playwright.js"
   },
   "scripts": {
