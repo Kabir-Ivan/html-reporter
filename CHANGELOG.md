@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="10.6.0"></a>
+# 10.6.0 (2024-07-02)
+
+
+### Features
+
+* add useless char ([0453c69](https://github.com/gemini-testing/html-reporter/commit/0453c69))
+
+
+
 <a name="10.5.0"></a>
 # 10.5.0 (2024-07-02)
 
