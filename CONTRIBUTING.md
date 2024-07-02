@@ -3,7 +3,7 @@
 > This document is currently a work in progress and is not yet comprehensive. 
 > Additional info will be added over time.
 
-### Running e2e tests
+### Running e2e tests 
 
 End-to-end testing of html-reporter consists of two stages: generating fixture reports using different tools and tests,
 then running hermione tests on these reports.
