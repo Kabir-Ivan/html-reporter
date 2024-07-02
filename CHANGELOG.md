@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="10.4.1"></a>
+## 10.4.1 (2024-07-02)
+
+
+### Features
+
+* test ([51190e2](https://github.com/gemini-testing/html-reporter/commit/51190e2))
+
+
+
 <a name="10.4.0"></a>
 # 10.4.0 (2024-07-02)
 
