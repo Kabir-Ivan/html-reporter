@@ -1,6 +1,6 @@
 # Contribution guide
 
-> This document is currently a work in progress and is not yet comprehensive.
+> This document is currently a work in progress and is not yet comprehensive. 
 > Additional info will be added over time.
 
 ### Running e2e tests
